@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>
 #include <time.h>
 #include "Dot.h"
 #include <iostream>
